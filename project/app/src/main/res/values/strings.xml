@@ -1,0 +1,52 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Income Expense Tracker</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="nav_header_title">Income Expense Tracker</string>
+    <string name="nav_header_subtitle">A Penny Saved is a Penny Earned.</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="about_app">If you can track your incomes and expenses religiously, you can actually reduce your expenditures and start saving. But it’s so hard to actually track down every one of your expenditure and keep a tab on all of it. That’s where this income expense tracker come in handy.</string>
+    <string name="hint_id">ID</string>
+
+    <string name="beneficiaryaddress">Address</string>
+    <string name="beneficiarycountry">Country</string>
+    <string name="register_benef">Register Beneficiary</string>
+    <string name="show_list_benef">List of Registered Beneficiary</string>
+
+    <string name="homeTitleToday">Today (Click here to change)</string>
+    <string name="homeTitleLastMonth">Last Month</string>
+    <string name="homeTitleThisMonth">This Month</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="country_prompt">Choose a Day</string>
+    <string name="income_prompt">Choose source of Income</string>
+
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name!!!</string>
+    <string name="err_msg_email">Enter valid email address!!!</string>
+    <string name="err_msg_password">Enter the password!!!</string>
+    <string name="err_msg_mobile">Enter the valid Mobile!!!</string>
+
+
+    <string-array name="days_array">
+        <item>Choose a Day</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+    </string-array>
+
+
+</resources>
+
+
